@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/03122015_Ediscv/ediscv/web/reports/DashBoard.jsp</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/util/ConfigProperties.java</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/doc/DocRepositoryBean.java</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/doc/DocRepositoryAction.java</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/config/mscvp.properties</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/doc/DocRepositoryServiceImpl.java</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/web/includes/js/GeneralAjax.js</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/web/includes/js/downloadAjax.js</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/ajax/AjaxHandlerServiceImpl.java</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/web/doc/DocRepository.jsp</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/util/ConnectionProvider.java</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/util/DataSourceDataProvider.java</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/config/config.properties</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/ajax/AjaxHandlerAction.java</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/griddownload/GridDownloadAction.java</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/doc.xml</file>
+            <file>file:/D:/03122015_Ediscv/ediscv/src/java/com/mss/ediscv/config/detailInfo.properties</file>
+        </group>
+    </open-files>
+</project-private>
